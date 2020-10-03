@@ -1,6 +1,6 @@
 # Mancala Game
 
-This game utilizes abstract classes and decision trees. It includes two different levels of AI: a BadPlayer and a SmartPlayer. The BadPlayer AI makes moves at random. The SmartPlayer AI uses a decision tree to select the move most likely to give it the win. Good luck!
+This project is a console version of the classic game Mancala. This program includes two different levels of AI: a BadPlayer and a SmartPlayer. The BadPlayer AI makes moves at random. The SmartPlayer AI uses a decision tree to select the move most likely to give it the win. Good luck!
 
 ## Rules
 Here is a [link](https://endlessgames.com/wp-content/uploads/Mancala_Instructions.pdf) that explains the rules of Mancala.
